@@ -1,0 +1,81 @@
+.main-ubicacion {
+
+    .imagenes-padre {
+        margin-top: 1rem;
+
+        .imagen-1 {
+            img {
+                margin-left: 5rem;
+                width: 261px;
+                height: 193px;
+                max-width: 100%;
+
+            }
+
+
+            h2 {
+                text-align: center;
+                font-size: 40px;
+                text-shadow: 3px 3px 3px violet;
+                margin-right: 5rem;
+            }
+
+            p {
+                margin-left: 2rem;
+            }
+
+            a {
+                margin: 0 0 0 1rem;
+            }
+        }
+
+
+
+        .imagen-2 {
+
+            img {
+                max-width: 100%;
+                text-align: center;
+                margin-left: 6rem;
+            }
+
+            h3 {
+                text-align: center;
+                font-size: 40px;
+                text-shadow: 3px 3px 3px violet;
+                margin-left: 4rem;
+            }
+
+            p {
+                text-align: center;
+            }
+
+
+        }
+
+        .imagen-3 {
+            img {
+                width: 261px;
+                height: 193px;
+                margin-left: 5rem;
+                max-width: 100%;
+            }
+
+            h4 {
+                text-align: center;
+                font-size: 40px;
+                text-shadow: 3px 3px 3px violet;
+                margin-right: 3rem;
+            }
+        }
+    }
+}
+
+.section-mapa {
+
+    .ubicacion {
+        margin: 0 0 0 0;
+    }
+
+}
+
